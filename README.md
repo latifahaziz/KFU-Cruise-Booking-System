@@ -77,31 +77,7 @@ nbproject/      # NetBeans project configuration
 images/         # UI assets and images
 ```
 
----
-
-## ⚙️ Setup & Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/kfu-cruise-booking-system.git
-   ```
-
-2. Configure MySQL:
-
-   * Create database: `kfu`
-   * Add required tables (`users`, `bookinginfo`)
-
-3. Update database credentials in the code:
-
-   ```java
-   String username = "root";
-   String password = "your_password";
-   ```
-
-4. Open project in NetBeans and run the main class.
-
----
+--- 
 
 ## 📚 Academic Context
 
